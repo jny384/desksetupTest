@@ -1,0 +1,60 @@
+.body {
+
+}
+.left {
+ float: left;
+    margin-left: 8%;
+    margin-right: 0;
+}
+.top {
+    width: 1018px;
+    height: 293px;
+    align-items: center;
+    justify-items: center;
+    background-color: red;
+    /*display: inline-block; */
+
+}
+
+.slider {
+    width: 813px;
+    height: 293px;
+    background-color: #61dafb;
+    float: left;
+}
+
+.mini {
+    width: 196px;
+    height: 293px;
+    background-color: blueviolet;
+    float: right;
+}
+
+.bottom {
+    width: 1018px;
+    height: 125px;
+    background-color: blue;
+    margin-top: 20px;
+}
+
+.recommend {
+    width: 1018px;
+    height: 250px;
+    background-color: red;
+}
+
+.theme {
+
+    width: 1018px;
+    height: 250px;
+    background-color: blue;
+}
+
+.side {
+    width: 182px;
+    height: 387px;
+    background-color: red;
+    float: right;
+    margin-right: 4%;
+    /*margin: 0 auto;*/
+}
